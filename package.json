@@ -1,0 +1,14 @@
+{
+  "name": "appointments",
+  "version": "0.0.1",
+  "description": "learning mastering tdd dev of react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Norbert",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
